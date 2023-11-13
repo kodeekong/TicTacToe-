@@ -1,2 +1,2 @@
 # TicTacToe-
-tic-tac-toe application
+A simple tic-tac-toe application
